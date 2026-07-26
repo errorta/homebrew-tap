@@ -8,7 +8,7 @@ class Errorta < Formula
   on_macos do
     on_arm do
       url "https://github.com/wiggins-j/errorta_app/releases/download/cli-v0.1.0-alpha.11/errorta-0.1.0-alpha.11-darwin-arm64.tar.gz"
-      sha256 "2c5475fff50bfd9b098c15868af0462f3f829e043e62a7ac7da05682bf5c730f"
+      sha256 "2cee4e21d3f2b2753d585705d6c981fa331cb87b3c49f2e8eee0bb8bfdf68871"
     end
   end
 
