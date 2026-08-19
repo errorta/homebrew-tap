@@ -1,14 +1,14 @@
 class Errorta < Formula
   desc "Headless AI coding-council CLI"
   homepage "https://github.com/wiggins-j/errorta_app"
-  version "0.2.0-alpha.2"
+  version "0.2.0-alpha.3"
   license "Apache-2.0"
   depends_on arch: :arm64
 
   on_macos do
     on_arm do
-      url "https://github.com/wiggins-j/errorta_app/releases/download/cli-v0.2.0-alpha.2/errorta-0.2.0-alpha.2-darwin-arm64.tar.gz"
-      sha256 "ca30281d213c06cb027c1bc2ec845104061b3763a9774d9645f77681608af305"
+      url "https://github.com/wiggins-j/errorta_app/releases/download/cli-v0.2.0-alpha.3/errorta-0.2.0-alpha.3-darwin-arm64.tar.gz"
+      sha256 "46614acc8443bdfe3a556520ef101a133d47df436fe354759d1ab04fd03d1c0e"
     end
   end
 
